@@ -1,1 +1,1 @@
-print("header panel")
+print("header panel of the application")
