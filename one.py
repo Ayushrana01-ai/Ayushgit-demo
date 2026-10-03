@@ -1,2 +1,2 @@
-a={1,2,3,4}
+a={"name": "John".capitalize(), "age": 30}
 print(a)
